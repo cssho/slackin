@@ -74,6 +74,8 @@
             "GOOGLE_CAPTCHA_SECRET",
             "GOOGLE_CAPTCHA_SITEKEY",
             "PASS_CODE"
-        ]
+        ],
+        "alias": "nnn-slackin",
+        "name": "slackin"
     }
 }
